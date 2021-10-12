@@ -1,6 +1,8 @@
 <h1 align="center">Joshua Philip</h1>
 <h3 align="center">Hi! I'm a Tech Enthusiast who loves coding, building, and troubleshooting!</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Java and Linux stuff**
 
 - 💻 You can find me on **glitch.com, replit.com, Github, and more!**
