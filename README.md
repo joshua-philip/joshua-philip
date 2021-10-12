@@ -28,6 +28,8 @@
 
 <br>
 
+<h3 align="left">My Statistics:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-philip&show_icons=true&theme=dark&locale=en&layout=compact" alt="joshua-philip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-philip&show_icons=true&theme=dark&locale=en" alt="joshua-philip" /></p>
