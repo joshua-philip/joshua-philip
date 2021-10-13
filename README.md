@@ -1,5 +1,5 @@
 <h1 align="center">Joshua Philip</h1>
-<h3 align="center">Hi! I'm a Tech Enthusiast who loves coding, building, and troubleshooting!</h3>
+<h3 align="center">Hi! I'm a Tech Enthusiast, Software Developer, and love to build things!</h3>
 
 <br>
 
