@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Linux stuff**
 
-- 💻 You can find me on **glitch.com, replit.com, Github, and more!**
+- 💻 You can find me on **glitch.com, replit.com, GitHub, and more!**
 
 - 💽 The OS I use most is **I use many, but the main ones are Windows, Linux, and macOS**
 
