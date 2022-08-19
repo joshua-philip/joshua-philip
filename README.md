@@ -3,11 +3,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **Java and Linux stuff**
+- 🌱 I’m currently learning **Java and Linux**
 
 - 💻 You can find me on **glitch.com, replit.com, GitHub, and more!**
 
-- 💽 The OS I use most is **I use many, but the main ones are Windows, Linux, and macOS**
+- 💽 The OS I use most is **Windows & Linux**
 
 - 👨‍💻 All of my projects are available on **my Github! All my projects are open-source, but currently privated**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jsphilip12@gmail.com**
 
-- ⚡ Fun fact **I am 13 years old, and developed a passion for anything tech at a very young age.**
+- ⚡ Fun fact **I am 14 years old, and developed a passion for anything tech at a very young age.**
 
 <br>
 
