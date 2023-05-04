@@ -9,7 +9,7 @@
 
 - 💽 The OS I use most is **Windows & Linux**
 
-- 👨‍💻 All of my projects are available on **my Github! All my projects are open-source, but currently privated**
+- 👨‍💻 All of my projects are available on **my Github! Most of my projects are currently privated**
 
 - 💬 Ask me about **anything!**
 
