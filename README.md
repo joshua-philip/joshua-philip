@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **jsphilip12@gmail.com**
 
-- ⚡ Fun fact **I am 14 years old, and developed a passion for anything tech at a very young age.**
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
