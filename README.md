@@ -9,7 +9,7 @@
 
 - 💽 The OS I use most is **Windows & Linux**
 
-- 👨‍💻 All of my projects are available on **my Github! Most of my projects are currently privated**
+- 👨‍💻 All of my projects are available on **my Github! Most of my projects are currently private**
 
 - 💬 Ask me about **anything!**
 
@@ -23,6 +23,6 @@
 
 <h3 align="left">My Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-philip&show_icons=true&theme=dark&locale=en&layout=compact" alt="joshua-philip" /></p>
+<p><img align="left" src="http://readme-stats-joshua-philip.vercel.app/api/top-langs?username=joshua-philip&show_icons=true&theme=dark&locale=en&layout=compact" alt="joshua-philip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-philip&show_icons=true&theme=dark&locale=en" alt="joshua-philip" /></p>
+<p>&nbsp;<img align="center" src="http://readme-stats-joshua-philip.vercel.app/api?username=joshua-philip&show_icons=true&theme=dark&locale=en" alt="joshua-philip" /></p>
