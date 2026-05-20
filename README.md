@@ -1,28 +1,65 @@
 <h1 align="center">Joshua Philip</h1>
-<h3 align="center">Hi! I'm a Tech Enthusiast, Software Developer, and love to build things!</h3>
 
-<br>
+<p align="center">
+  <strong>Full-Stack Developer & Infrastructure Engineer</strong><br />
+  Building scalable web platforms, real-time systems, and production infrastructure.
+</p>
 
-- 🌱 I’m currently learning **Java and Linux**
+<p align="center">
+  <a href="https://joshuaphilip.com">Portfolio</a> •
+  <a href="https://joshuaphilip.com/projects">Projects</a> •
+  <a href="mailto:contact@joshuaphilip.com">Email</a> •
+  <a href="https://www.linkedin.com/in/joshuaphilip08/">LinkedIn</a>
+</p>
 
-- 💻 You can find me on **glitch.com, replit.com, GitHub, and more!**
+---
 
-- 💽 The OS I use most is **Windows & Linux**
+### About
 
-- 👨‍💻 All of my projects are available on **my Github! Most of my projects are currently private**
+I'm a full-stack developer and infrastructure engineer focused on building real-world systems that are fast, reliable, and scalable.
 
-- 💬 Ask me about **anything!**
+My work spans web applications, backend services, real-time systems, Linux/Windows infrastructure, reverse proxies, databases, and game server platforms. I’ve led development on large online platforms, built custom tooling, and worked across the full stack from UI to deployment.
 
-- 📫 How to reach me **jsphilip12@gmail.com**
+I’m especially interested in systems engineering, cybersecurity, civic technology, and software that holds up under real production use.
 
-<br>
+Incoming student at **Northeastern University London**, studying **Computer Science and Business Administration**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### Current Focus
 
-<h3 align="left">My Statistics:</h3>
+- Building and refining my technical portfolio
+- Learning deeper systems engineering and cybersecurity concepts
+- Creating civic tech and accessibility-focused software
+- Exploring scalable infrastructure, automation, and real-time platforms
 
-<p><img align="left" src="http://readme-stats-joshua-philip.vercel.app/api/top-langs?username=joshua-philip&show_icons=true&theme=dark&locale=en&layout=compact" alt="joshua-philip" /></p>
+---
 
-<p>&nbsp;<img align="center" src="http://readme-stats-joshua-philip.vercel.app/api?username=joshua-philip&show_icons=true&theme=dark&locale=en" alt="joshua-philip" /></p>
+### Tech I Work With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,postgres,mongodb,redis,prisma,tailwind,html,css,linux,nginx,cloudflare,docker,git,github,python,lua,cpp" />
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Portfolio](https://joshuaphilip.com) | Personal portfolio showcasing my projects, experience, and infrastructure work. | Next.js, TypeScript, Tailwind |
+| [rvaHelp](https://joshuaphilip.com/projects/rvahelp) | Civic technology platform built in 24 hours to improve RVA311 reporting with accessibility-focused design and low-cost AI-assisted classification. | Next.js, Node.js, PostgreSQL |
+| [Private Online Platform](https://joshuaphilip.com/projects/private-online-platform) | Scalable production web and game infrastructure for a private online platform with real-time systems and custom tooling. | Node.js, React, NGINX, SQL, Redis |
+
+---
+
+### Areas of Interest
+
+- Full-stack development
+- Infrastructure engineering
+- Systems architecture
+- Cybersecurity
+- Civic technology
+- Real-time applications
+- Developer tooling
+- Game server systems
